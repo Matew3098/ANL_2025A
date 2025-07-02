@@ -1,0 +1,1 @@
+Este es un repositorio de Análisis Numérico Lineal con solvers para sistemas de ecuaciones.
