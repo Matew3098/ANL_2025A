@@ -3,3 +3,5 @@ ANL_2025A/
 #Ignorar la caché de python
 __pycache__/
 *.pyc
+#Ignorar archivo de workspace de visual studio
+Laboratorio.code-workspace
